@@ -1,4 +1,4 @@
 def second_challenge
-  epic-tragedy = {
+  epic_tragedy = {
   }
 end
