@@ -1,4 +1,4 @@
-epic_tragedy = {
+second_challenge = {
    :montague => {
       :patriarch => {},
       :matriarch => {},
